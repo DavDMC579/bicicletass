@@ -143,6 +143,6 @@ public class GestorParqueadero {
     }
 
     public Bicicletas[] getListaBicicletas() {
-        return listaBicicletas;
+        return listaBicicletasa;
     }
 }
