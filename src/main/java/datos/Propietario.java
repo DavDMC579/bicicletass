@@ -22,6 +22,6 @@ public class Propietario {
     }
 
     public void setIdentificacion(int identificacion) {
-        this.identificacion = identificacione;
+        this.identificacion = identificacion;
     }
 }
